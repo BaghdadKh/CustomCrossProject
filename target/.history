@@ -1,0 +1,12 @@
+test
+testOnly *NativeTest1
+myProject0/test
+test
+myProject0/test
+test
+reload
+test
+myProject02/test
+myProject0/test
+myProject01/test
+myProject02/test

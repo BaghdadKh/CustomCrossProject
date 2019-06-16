@@ -1,0 +1,16 @@
+[0m[[0minfo[0m] [0mFast optimizing C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\target\scala-2.12\myproject02-test-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 1619317 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 1863889 us[0m
+[0m[[0mdebug[0m] [0mBasic Linking: 3539543 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: true[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 643183 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 11090 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 6135710 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 6846929 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 229527 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 35305 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 268972 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 949 -- invalidated: 955[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 5174[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 2073347 us[0m
+[0m[[0mdebug[0m] [0mGlobal IR cache stats: reused: 0 -- invalidated: 8 -- trees read: 1129[0m

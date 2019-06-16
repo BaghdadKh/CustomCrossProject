@@ -1,0 +1,94 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\target\scala-2.12\classes
+compile options:
+1 items
+0 -> -Xplugin:C:\Users\Lenovo\.ivy2\cache\org.scala-js\scalajs-compiler_2.12.8\jars\scalajs-compiler_2.12.8-0.6.26.jar
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\target\scala-2.12\classes\MainJS$.class
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\target\scala-2.12\classes\MainJS.class
+binary dependencies:
+3 items
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> C:\Users\Lenovo\.ivy2\cache\org.scala-js\scalajs-library_2.12\jars\scalajs-library_2.12-0.6.26.jar
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> C:\Users\Lenovo\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> MainJS
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> MainJS$
+used names:
+10 items
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> <init>
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> Int
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> JSApp
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> MainJS
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> Object
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> Unit
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> js
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> s
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> scala
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> scalajs
+product stamps:
+2 items
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\target\scala-2.12\classes\MainJS$.class -> lastModified(1560674327288)
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\target\scala-2.12\classes\MainJS.class -> lastModified(1560674327335)
+source stamps:
+1 items
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> hash(29e4123bbadbee5535fd1d4bedeebcc1bf35e4f7)
+binary stamps:
+3 items
+C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar -> lastModified(1488345803257)
+C:\Users\Lenovo\.ivy2\cache\org.scala-js\scalajs-library_2.12\jars\scalajs-library_2.12-0.6.26.jar -> lastModified(1543358868000)
+C:\Users\Lenovo\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar -> lastModified(1543918558000)
+class names:
+3 items
+C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Lenovo\.ivy2\cache\org.scala-js\scalajs-library_2.12\jars\scalajs-library_2.12-0.6.26.jar -> scala.scalajs.js.JSApp
+C:\Users\Lenovo\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar -> scala.Unit
+internal apis:
+1 items
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwSoAjrgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwimzj63QABm5vdGlmeXNxAH4ADBkFe4l0AAFzc3EAfgAMwvbI8HQABHdhaXRzcQB+AAwT/0bedAANJGFzSW5zdGFuY2VPZnNxAH4ADE0eltB0AAZlcXVhbHNzcQB+AAyyVtELdAAGTWFpbkpTc3EAfgAMLijWG3QADGFzSW5zdGFuY2VPZnNxAH4ADCb3hrB0AAxzeW5jaHJvbml6ZWRzcQB+AAwWAGIEdAANJGlzSW5zdGFuY2VPZnNxAH4ADKZlvqN0AARtYWluc3EAfgAMekEr6HQACW5vdGlmeUFsbHNxAH4ADN2b+8F0AAxpc0luc3RhbmNlT2ZzcQB+AAwZWEROdAACPT1zcQB+AAwA5iFddAAFY2xvbmVzcQB+AAyllmtbdAAIdG9TdHJpbmdzcQB+AAyj5qbSdAACIT1zcQB+AAy1GngedAAIZ2V0Q2xhc3NzcQB+AAzwdP5RdAACbmVzcQB+AAwnI8/3dAACZXFzcQB+AAwWKm8PdAAWJGpzJGV4cG9ydGVkJG1ldGgkbWFpbnNxAH4ADBgVetV0AAIjI3NxAH4ADDTQc2N0AAhmaW5hbGl6ZXNxAH4ADLfwLJJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AGXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGJzcQB+AF11cQB+AEAAAAAAc3EAfgBddXEAfgBAAAAAAHNxAH4AXXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABUpTQXBwc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNxAH4AenQAB3NjYWxhanNzcQB+AHp0AAJqc3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7c3EAfgBudAAGT2JqZWN0c3EAfgByc3EAfgB1dXEAfgB4AAAAA3NxAH4AenQABGphdmFzcQB+AHp0AARsYW5ncQB+AINzcQB+AG50AANBbnlzcQB+AHJzcQB+AHV1cQB+AHgAAAACc3EAfgB6cQB+AH1xAH4Ag3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFrX3A3MXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFpDOlxVc2Vyc1xMZW5vdm9cRGVza3RvcFxORXdzXE1hclxDdXN0b21Qcm9qZWN0XG15UHJvamVjdFxtb2R1bGUzXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQp5BI7utvuVTX9HUvt7rzBvzXk9w==
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\Lenovo\Desktop\NEws\Mar\CustomProject\myProject\module3\src\main\scala\MainJS.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa18jg8J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWkM6XFVzZXJzXExlbm92b1xEZXNrdG9wXE5Fd3NcTWFyXEN1c3RvbVByb2plY3RcbXlQcm9qZWN0XG1vZHVsZTNcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa18t3tx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWkM6XFVzZXJzXExlbm92b1xEZXNrdG9wXE5Fd3NcTWFyXEN1c3RvbVByb2plY3RcbXlQcm9qZWN0XG1vZHVsZTNcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa19wNzF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWkM6XFVzZXJzXExlbm92b1xEZXNrdG9wXE5Fd3NcTWFyXEN1c3RvbVByb2plY3RcbXlQcm9qZWN0XG1vZHVsZTNcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
